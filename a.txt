@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 testando 
 testando o push
+=======
+testando
+colocando html
+>>>>>>> 9e21d2a9e0e24e6d61651ff8b3ab3273a3e9d017
